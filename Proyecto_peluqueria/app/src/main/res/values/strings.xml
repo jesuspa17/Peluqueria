@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Peluquería Antonio Peña</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_cliente">Peluquería Antonio Peña</string>
+    <string name="title_activity_add">Añadir cliente</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
